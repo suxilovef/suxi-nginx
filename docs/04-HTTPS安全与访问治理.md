@@ -7,7 +7,7 @@ tags:
 categories:
   - Nginx
 realm: wujing
-cover: /image/post_cover/nginx-7stage-roadmap-min.svg
+cover: /image/post_cover/wujing-nginx-https.svg
 rank: 91
 top_img: false
 ---
